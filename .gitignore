@@ -1,1 +1,16 @@
-ECHO ¤w±Ò°Ê¡C
+.android/
+.cache/
+.conda/
+.condarc
+.continuum/
+.dotnet/
+.gradle/
+.ipython/
+.jupyter/
+.keras/
+.lesshst
+.m2/
+.matplotlib/
+.spyder-py3/
+.vscode/
+
